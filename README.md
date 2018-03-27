@@ -140,3 +140,5 @@ first. I hope it will get more stable in future release of `react-native-fetch-b
 ### License 
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
+
+Lies
